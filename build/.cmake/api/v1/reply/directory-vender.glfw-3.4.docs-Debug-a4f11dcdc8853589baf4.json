@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "vender/glfw-3.4/docs",
+		"source" : "vender/glfw-3.4/docs"
+	}
+}
