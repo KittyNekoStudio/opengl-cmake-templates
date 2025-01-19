@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.30.3)
+cmake_minimum_required(VERSION 3.25.0)
 project(learnopengl)
 
 add_subdirectory(vender/glfw-3.4)
